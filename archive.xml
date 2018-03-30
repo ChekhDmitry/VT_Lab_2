@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_121" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="by.chekh.entity.StudentCard">
+    <void property="address">
+     <string>Лабонка 12-11</string>
+    </void>
+    <void property="avrMark">
+     <double>8.0</double>
+    </void>
+    <void property="birthDate">
+     <string>11-18-1997</string>
+    </void>
+    <void property="budget">
+     <string>бюджет</string>
+    </void>
+    <void property="email">
+     <string>roma@mail.ru</string>
+    </void>
+    <void property="faculty">
+     <string>ФКСИС</string>
+    </void>
+    <void property="fullName">
+     <string>Евгений Сергеев</string>
+    </void>
+    <void property="group">
+     <string>551001</string>
+    </void>
+    <void property="id">
+     <int>2</int>
+    </void>
+    <void property="phone">
+     <string>+7547122312</string>
+    </void>
+    <void property="speciality">
+     <string>ПОИТ</string>
+    </void>
+    <void property="university">
+     <string>БГУИР</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.chekh.entity.StudentCard">
+    <void property="address">
+     <string>Сухаревская 70-60</string>
+    </void>
+    <void property="avrMark">
+     <double>8.2</double>
+    </void>
+    <void property="birthDate">
+     <string>18-11-1997</string>
+    </void>
+    <void property="budget">
+     <string>платная</string>
+    </void>
+    <void property="email">
+     <string>dima@mail.ru</string>
+    </void>
+    <void property="faculty">
+     <string>ФКСИС</string>
+    </void>
+    <void property="fullName">
+     <string>Дима Чех</string>
+    </void>
+    <void property="group">
+     <string>551001</string>
+    </void>
+    <void property="id">
+     <int>3</int>
+    </void>
+    <void property="phone">
+     <string>+37544978921</string>
+    </void>
+    <void property="speciality">
+     <string>ПОИТ</string>
+    </void>
+    <void property="university">
+     <string>БГУИР</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.chekh.entity.StudentCard">
+    <void property="address">
+     <string>Лабонка</string>
+    </void>
+    <void property="avrMark">
+     <double>8.0</double>
+    </void>
+    <void property="birthDate">
+     <string>10-10-1997</string>
+    </void>
+    <void property="budget">
+     <string>бюджет</string>
+    </void>
+    <void property="email">
+     <string>ser@mail.ru</string>
+    </void>
+    <void property="faculty">
+     <string>КСИС</string>
+    </void>
+    <void property="fullName">
+     <string>Сергей Петров</string>
+    </void>
+    <void property="group">
+     <string>551001</string>
+    </void>
+    <void property="id">
+     <int>5</int>
+    </void>
+    <void property="phone">
+     <string>+37544765638</string>
+    </void>
+    <void property="speciality">
+     <string>ПОИТ</string>
+    </void>
+    <void property="university">
+     <string>БГУИР</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.chekh.entity.StudentCard">
+    <void property="address">
+     <string>Скрипникова</string>
+    </void>
+    <void property="avrMark">
+     <double>9.0</double>
+    </void>
+    <void property="birthDate">
+     <string>11-02-1997</string>
+    </void>
+    <void property="budget">
+     <string>бюджет</string>
+    </void>
+    <void property="email">
+     <string>стас@mail.ru</string>
+    </void>
+    <void property="faculty">
+     <string>КСИС</string>
+    </void>
+    <void property="fullName">
+     <string>Светлана Кирилова</string>
+    </void>
+    <void property="group">
+     <string>551005</string>
+    </void>
+    <void property="id">
+     <int>6</int>
+    </void>
+    <void property="phone">
+     <string>+3765123123</string>
+    </void>
+    <void property="speciality">
+     <string>ПОИТ</string>
+    </void>
+    <void property="university">
+     <string>БГУИР</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.chekh.entity.StudentCard">
+    <void property="address">
+     <string>Платонова 12-34</string>
+    </void>
+    <void property="avrMark">
+     <double>7.2</double>
+    </void>
+    <void property="birthDate">
+     <string>12-09-1995</string>
+    </void>
+    <void property="budget">
+     <string>бюджет</string>
+    </void>
+    <void property="email">
+     <string>ivan@mail.ru</string>
+    </void>
+    <void property="faculty">
+     <string>ФРТ</string>
+    </void>
+    <void property="fullName">
+     <string>Иван Иванов</string>
+    </void>
+    <void property="group">
+     <string>661001</string>
+    </void>
+    <void property="id">
+     <int>4</int>
+    </void>
+    <void property="phone">
+     <string>99999999</string>
+    </void>
+    <void property="speciality">
+     <string>ПМ</string>
+    </void>
+    <void property="university">
+     <string>БНТУ</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
